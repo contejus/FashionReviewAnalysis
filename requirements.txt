@@ -3,7 +3,7 @@ joblib==0.13.2
 kiwisolver==1.1.0
 kneed==0.4.1
 matplotlib==3.1.1
-nltk==3.4.4
+nltk>=3.4.5
 numpy==1.16.4
 pandas==0.24.2
 Pillow==6.1.0
